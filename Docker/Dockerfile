@@ -1,5 +1,5 @@
 FROM openjdk:8-jdk-alpine
-LABEL maintainer="Gary A. Stafford <garystafford@rochester.rr.com>"
+LABEL maintainer="Covid challenge"
 ENV REFRESHED_AT 2018-06-13
 EXPOSE 8761
 RUN set -ex \
